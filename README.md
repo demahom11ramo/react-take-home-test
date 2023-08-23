@@ -40,14 +40,14 @@ Evaluation Criteria:
 
 Your project will be evaluated based on the following criteria:
 
-Responsiveness
-Code quality and organization.
-React component structure and state management.
-API integration and data handling.
-Routing implementation.
-UI/UX design and responsiveness.
-Error handling.
-Documentation.
+- Responsiveness
+- Code quality and organization.
+- React component structure and state management.
+- API integration and data handling.
+- Routing implementation.
+- UI/UX design and responsiveness.
+- Error handling.
+- Documentation.
 
 
 
