@@ -77,19 +77,19 @@ const ProductsPage: React.FC = () => {
   }
 
   return (
-    <div className="my-4">
+    <div className="container mx-auto px-4 py-8">
       <h1 className="text-3xl font-bold mb-6">Products</h1>
 
       <div className="space-y-4 mb-6">
         {/* Search input */}
         <div className="relative w-15">
-          <Search className="absolute left-5 top-1/2 transform -translate-y-1/2 text-black h-4 w-4 " />
+          <Search className="absolute left-5 top-1/2 transform -translate-y-1/2 text-black h-4 w-4" />
           <Input
             type="text"
             placeholder="Search products..."
             value={searchQuery}
             onChange={handleSearch}
-            className="pl-12 w-min bg-gray-300 rounded-full "
+            className="pl-12 w-min bg-gray-300 rounded-full"
           />
         </div>
 
