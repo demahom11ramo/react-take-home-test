@@ -1,4 +1,4 @@
-# Retail Realm Explorer
+# Products Explorer
 
 A modern web application for exploring and managing retail data.
 
