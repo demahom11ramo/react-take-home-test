@@ -1,6 +1,26 @@
-# Products Explorer
+# Products45
 
-A modern web application for exploring and managing retail data.
+A modern e-commerce web application built with React, TypeScript, and Vite.
+
+## Features
+
+- Product browsing with category filtering
+- Product search functionality
+- Detailed product views
+- Shopping cart management
+- Responsive design
+- Real-time price updates
+
+## Tech Stack
+
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
+- Redux Toolkit
+- React Query
+- React Router
+- shadcn/ui
 
 ## Getting Started
 
@@ -14,6 +34,7 @@ A modern web application for exploring and managing retail data.
 1. Clone the repository
 ```bash
 git clone [repository-url]
+cd products45
 ```
 
 2. Install dependencies
@@ -30,20 +51,16 @@ npm run dev
 yarn dev
 ```
 
-## Development
-
-This project uses:
-- React for the UI
-- TypeScript for type safety
-- Vite as the build tool
-- Tailwind CSS for styling
-
 ## Building for Production
-
-To create a production build:
 
 ```bash
 npm run build
 # or
 yarn build
 ```
+
+## License
+
+This project is licensed under the MIT License.
+
+
